@@ -87,19 +87,19 @@ export const workData = [
         title: 'Booking',
         description: 'Web App',
         bgImage: '/work-2.png',
-        link: 'https://sunday-chicken-app.vercel.app/',
+        link: 'https://doctorappointment-frontend-ndpc.onrender.com/',
     },
     {
         title: 'Agency site',
         description: 'Website',
         bgImage: '/work-3.png',
-        link: 'https://sunday-chicken-app.vercel.app/',
+        link: 'https://agency-ai-ruddy.vercel.app/',
     },
     {
         title: 'GYM',
         description: 'UI/UX Design',
         bgImage: '/work-4.png',
-        link: 'https://sunday-chicken-app.vercel.app/',
+        link: 'https://www.figma.com/design/fngiQbYKcNZh975A1mjAgQ/GYM-Landing-Page?node-id=0-1&p=f&t=h5pUTYtIPGpYWcrQ-0',
     },
 ]
 
