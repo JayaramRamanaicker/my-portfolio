@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Ovo&display=swap');
+@import "tailwindcss";
+
+:root {
+  --font-Montserrat: 'Montserrat', sans-serif;
+  --font-Ovo: 'Ovo', serif;
+}
+
+* {
+  font-family: var(--font-Montserrat);
+}
+.font-Ovo {
+  font-family: var(--font-Ovo);
+}
+
+.shadow-black {
+  box-shadow: 4px 4px 0 #000;
+}
+
+.shadow-white {
+  box-shadow: 4px 4px 0 #fff;
+}
+
+:root {
+  --lightHover: #fcf4ff;
+  --darkHover: #2a004a;
+  --darkTheme: #11001F;
+}
+
+.bg-lightHover {
+  background-color: var(--lightHover);
+}
+
+.bg-darkHover {
+  background-color: var(--darkHover);
+}
+
+.bg-darkTheme {
+  background-color: var(--darkTheme);
+}
+
+.text-lightHover {
+  color: var(--lightHover);
+}
+
+.text-darkHover {
+  color: var(--darkHover);
+}
+
+.text-darkTheme {
+  color: var(--darkTheme);
+}
